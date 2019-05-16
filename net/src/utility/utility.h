@@ -23,6 +23,7 @@ void getTime(uint64_t& sec,uint64_t& msec);
 void printTime();
 uint64_t getTime();
 
+
 template<class T>
 class Stack{
 public:
